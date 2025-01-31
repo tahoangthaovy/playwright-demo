@@ -1,5 +1,5 @@
 import { expect, test } from "@playwright/test";
-import { RegisterPage } from "./register-page";
+import { RegisterPage } from "../page/register-page";
 
 let date = "2025-01-31";
 let username = "Playwright Viet Nam";
